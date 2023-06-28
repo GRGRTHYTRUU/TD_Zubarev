@@ -6,3 +6,4 @@
 ·	По карте идут волны врагов 
 ·	Можно установить башни 
 ·	Башни убивают врагов 
+![image](https://github.com/GRGRTHYTRUU/TD_Zubarev/assets/138003218/6a539620-9ccc-4d30-a308-4ee3fc36a2aa)
